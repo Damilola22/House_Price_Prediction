@@ -1,5 +1,7 @@
 # House_Price_Prediction
 This program uses different statistical methods to predict total basement area, house heating and basement rating using the ames housing dataset. In addition the total number of appearances of a player was also predicted using the footballer dataset.
+# Technology 
+R Studio version (2022.07.2+57.6)
 # Table of Content
 - Data Cleaning and Processing
 - Linear regression
