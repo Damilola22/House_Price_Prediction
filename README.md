@@ -1,5 +1,5 @@
 # House_Price_Prediction
-This program predicts total basement area, house heating and basement rating using the ames housing dataset. In addition the total number of appearances of a player was also predicted using the footballer dataset.
+This program uses different statistical methods to predict total basement area, house heating and basement rating using the ames housing dataset. In addition the total number of appearances of a player was also predicted using the footballer dataset.
 # Table of Content
 - Data Cleaning and Processing
 - Linear regression
